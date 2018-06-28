@@ -130,6 +130,14 @@ section.resume-section .resume-item .resume-date {
     }
 }
 
+@media (max-width:768px) {
+    #imgs {
+        width: 100px;
+        height: 100px;
+        ;
+    }
+}
+
 .bg-primary {
     background-color: #4c5660!important
 }
